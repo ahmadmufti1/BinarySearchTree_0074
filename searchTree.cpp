@@ -93,4 +93,8 @@ class BinaryTree {
         }
     }
 
+    void postorder(Node* ptr) 
+    {
+        
+    }
 };
