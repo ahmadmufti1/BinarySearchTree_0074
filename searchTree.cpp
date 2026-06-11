@@ -64,4 +64,8 @@ class BinaryTree {
         }
     }
 
+    void inorder(Node* ptr) {
+        
+    }
+
 };
